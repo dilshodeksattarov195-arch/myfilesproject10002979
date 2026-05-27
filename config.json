@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasevync",
+        "uuid": 8335242,
+        "checksum": "vlus3"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
